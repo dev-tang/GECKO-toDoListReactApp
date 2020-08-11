@@ -1,5 +1,5 @@
 # v20-geckos-team-04
-GECKO | A To-Do-List React Web Application | Voyage-20 | https://chingu.io/
+GECKO | A To-Do-List React Web Application | Voyage-20 | https://gecko-todolist-react.herokuapp.com/
 
 **Home Page**
 
