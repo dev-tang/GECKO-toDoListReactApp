@@ -18,13 +18,15 @@ GECKO | A To-Do-List React Web Application | Voyage-20 | https://gecko-todolist-
 
 <img src="https://i.gyazo.com/d21fed8ecb362ec3bbd25524b037d2a9.gif" alt="About Page" height="300">
 
-**MVP**
+**Overview/MVP**
+
+This React Web Application was created for the GECKO-team-04 of Voyage #20 via [Chingu](https://chingu.io/)
 
 The GECKO To-Do-List Web App is a productivity tool designed for users to help them keep track of current tasks
 
 Features:
 
-- Create/View/Modify/Delete Tasks
+- Create/View/Modify/Delete Tasks powered by user's Local Storage
 - Customize Icon, Title, Goal, and Description(s) for a New Task
 - Access a Complete View of Available Tasks in a scrollable view
 - Create as many tasks the user may like!
@@ -70,3 +72,10 @@ Features:
 **HomePage: Delete / Complete Task**
 
 - User can click "Delete" existing tasks via Gear Button
+
+
+## Dependencies:
+
+  - User's Local Storage
+  - [React Bootstrap](https://react-bootstrap.github.io/)
+  - [react-fa-icon-picker](https://github.com/DATechnologies/react-fa-icon-picker)
